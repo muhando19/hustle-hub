@@ -9,6 +9,59 @@ body {
     background-size: cover;
 }
 
+:root{
+    --deep-blue-1: #001f3f;
+--deep-blue-2: #00264d;
+--deep-blue-3: #002d5a;
+--deep-blue-4: #003366;
+--deep-blue-5: #003b73;
+--deep-blue-6: #004480;
+--deep-blue-7: #004c8d;
+--deep-blue-8: #005499;
+--deep-blue-9: #005ca6;
+--deep-blue-10: #0065b3;
+--deep-blue-11: #006dc0;
+--deep-blue-12: #0075cc;
+--deep-blue-13: #007eda;
+--deep-blue-14: #0086e6;
+--deep-blue-15: #008ef3;
+--deep-blue-16: #0097ff;
+--deep-blue-17: #001a36;
+--deep-blue-18: #002242;
+--deep-blue-19: #00284e;
+--deep-blue-20: #002f5a;
+--deep-blue-21: #003665;
+--deep-blue-22: #003e70;
+--deep-blue-23: #00457b;
+--deep-blue-24: #004d86;
+--deep-blue-25: #005591;
+--deep-blue-26: #005d9b;
+--deep-blue-27: #0065a6;
+--deep-blue-28: #006db1;
+--deep-blue-29: #0075bc;
+--deep-blue-30: #007dc7;
+--deep-blue-31: #0085d2;
+--deep-blue-32: #008ddd;
+--deep-blue-33: #0095e7;
+--deep-blue-34: #009df2;
+--deep-blue-35: #00a5fd;
+--deep-blue-36: #000e22;
+--deep-blue-37: #001527;
+--deep-blue-38: #001c2c;
+--deep-blue-39: #002331;
+--deep-blue-40: #002a36;
+--deep-blue-41: #00313b;
+--deep-blue-42: #003840;
+--deep-blue-43: #003f45;
+--deep-blue-44: #00464a;
+--deep-blue-45: #004d4f;
+--deep-blue-46: #005454;
+--deep-blue-47: #005b59;
+--deep-blue-48: #00625e;
+--deep-blue-49: #006964;
+--deep-blue-50: #007069;
+}
+
 h1, h2, h3, h4, h5, h6{
     font-family: "Roboto Slab", serif;
 }
